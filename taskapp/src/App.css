@@ -1,8 +1,8 @@
 body{
-    background: rgb(54,217,182);
-    background: linear-gradient(deg, rgb(54,217,182,1) 0%, rgba(32,152,126,1) 43%, rgba(0,212,255,1) 100%);
-  }
-  h1, h2, h3, h4, h5, p, span, strike{
+  background: #961b1b;
+  background-image: linear-gradient(to right top, #ec445a, #d63949, #c12f39, #ab2529, #961b1b);
+}
+. h1, h2, h3, h4, h5, p, span, strike{
     font-family: 'Montserrat', sans-serif;
   }
   #task-container{
